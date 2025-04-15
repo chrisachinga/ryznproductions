@@ -1,10 +1,10 @@
 
 import React from "react";
-import PageLayout from "../components/Layout/PageLayout";
-import HeroSlider from "../components/UI/HeroSlider";
-import CategoryCard from "../components/UI/CategoryCard";
-import PortfolioItem from "../components/UI/PortfolioItem";
-import SectionHeader from "../components/UI/SectionHeader";
+import PageLayout from "@/components/layout/PageLayout";
+import HeroSlider from "@/components/ui/HeroSlider";
+import CategoryCard from "@/components/UI/CategoryCard";
+import PortfolioItem from "@/components/UI/PortfolioItem";
+import SectionHeader from "@/components/UI/SectionHeader";
 import { Link } from "react-router-dom";
 
 const Home: React.FC = () => {

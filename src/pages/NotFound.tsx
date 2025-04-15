@@ -2,7 +2,7 @@
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
 import { useEffect } from "react";
-import PageLayout from "../components/Layout/PageLayout";
+import PageLayout from "@/components/layout/PageLayout";
 
 const NotFound = () => {
   const location = useLocation();

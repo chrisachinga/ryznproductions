@@ -1,7 +1,7 @@
 
 import React, { useState } from "react";
-import PageLayout from "../components/Layout/PageLayout";
-import SectionHeader from "../components/UI/SectionHeader";
+import PageLayout from "@/components/layout/PageLayout";
+import SectionHeader from "@/components/ui/SectionHeader";
 import { ChevronDown, ChevronUp } from "lucide-react";
 
 interface ServiceItemProps {

@@ -1,6 +1,6 @@
 
 import React, { useState } from "react";
-import PageLayout from "@/components/Layout/PageLayout";
+import PageLayout from "@/components/layout/PageLayout";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { Switch } from "@/components/ui/switch";
 import { Button } from "@/components/ui/button";
