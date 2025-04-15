@@ -1,7 +1,7 @@
 
 import React, { useState } from "react";
 import PageLayout from "@/components/layout/PageLayout";
-import SectionHeader from "@/components/UI/SectionHeader";
+import SectionHeader from "@/components/ui/SectionHeader";
 import { toast } from "sonner";
 
 interface FormData {
