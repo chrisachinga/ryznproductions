@@ -1,4 +1,3 @@
-
 import React from "react";
 import PageLayout from "@/components/layout/PageLayout";
 import HeroSlider from "@/components/ui/HeroSlider";
@@ -7,7 +6,16 @@ import PortfolioItem from "@/components/ui/PortfolioItem";
 import SectionHeader from "@/components/ui/SectionHeader";
 import { Link } from "react-router-dom";
 
+import data from "@/data/images.json";
+
 const Home: React.FC = () => {
+
+  const categories = data.categories.map((category) => ({
+    title: category.title,
+    image: category.banner.src,
+    slug: category.slug,
+  }));
+  
   const heroSlides = [
     {
       image: "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
@@ -36,38 +44,38 @@ const Home: React.FC = () => {
     },
   ];
 
-  const categories = [
-    {
-      title: "Event Photography",
-      image: "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
-      slug: "event-photography",
-    },
-    {
-      title: "Photo Tour Experiences",
-      image: "https://images.unsplash.com/photo-1507608616759-54f48f0af0ee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-      slug: "photo-tour-experiences",
-    },
-    {
-      title: "Documentary Photography",
-      image: "https://images.unsplash.com/photo-1604954967536-c8875cd14593?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-      slug: "documentary-photography",
-    },
-    {
-      title: "Product Photography",
-      image: "https://images.unsplash.com/photo-1616401784845-180882ba9ba8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-      slug: "product-photography",
-    },
-    {
-      title: "Portrait Photography",
-      image: "https://images.unsplash.com/photo-1528475775637-ed767f76e6b6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-      slug: "portrait-photography",
-    },
-    {
-      title: "Wedding Photography",
-      image: "https://images.unsplash.com/photo-1519741497674-611481863552?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-      slug: "wedding-photography",
-    },
-  ];
+  // const categories = [
+  //   {
+  //     title: "Event Photography",
+  //     image: "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+  //     slug: "event-photography",
+  //   },
+  //   {
+  //     title: "Photo Tour Experiences",
+  //     image: "https://images.unsplash.com/photo-1507608616759-54f48f0af0ee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+  //     slug: "photo-tour-experiences",
+  //   },
+  //   {
+  //     title: "Documentary Photography",
+  //     image: "https://images.unsplash.com/photo-1604954967536-c8875cd14593?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+  //     slug: "documentary-photography",
+  //   },
+  //   {
+  //     title: "Product Photography",
+  //     image: "https://images.unsplash.com/photo-1616401784845-180882ba9ba8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+  //     slug: "product-photography",
+  //   },
+  //   {
+  //     title: "Portrait Photography",
+  //     image: "https://images.unsplash.com/photo-1528475775637-ed767f76e6b6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+  //     slug: "portrait-photography",
+  //   },
+  //   {
+  //     title: "Wedding Photography",
+  //     image: "https://images.unsplash.com/photo-1519741497674-611481863552?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+  //     slug: "wedding-photography",
+  //   },
+  // ];
 
   const portfolioItems = [
     {

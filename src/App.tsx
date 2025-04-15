@@ -10,6 +10,7 @@ import Gallery from "@/pages/Gallery";
 import Services from "@/pages/Services";
 import About from "@/pages/About";
 import Contact from "@/pages/Contact";
+import CategoryDetail from "@/pages/CategoryDetail";
 import DataPolicy from "@/pages/DataPolicy";
 import NotFound from "@/pages/NotFound";
 
@@ -25,6 +26,7 @@ const App = () => (
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/gallery" element={<Gallery />} />
+            <Route path="/category/:slug" element={<CategoryDetail />} />
             <Route path="/services" element={<Services />} />
             <Route path="/about" element={<About />} />
             <Route path="/contact" element={<Contact />} />
