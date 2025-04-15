@@ -101,7 +101,15 @@ const Footer: React.FC = () => {
         
         <div className="border-t border-gray-800 pt-8">
           <p className="text-gray-400 text-center">
-            &copy; {new Date().getFullYear()} Ryzn Photography. All rights reserved.
+            &copy; {new Date().getFullYear()} Ryzn Photography || Built & Designed by{" "}
+            <a
+              href="https://chrisdevcode.co.ke" 
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-white hover:text-gray-300 transition-colors"
+            >
+              ChrisDevCode Technologies
+            </a>
           </p>
         </div>
       </div>
