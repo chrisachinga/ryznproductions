@@ -2,9 +2,9 @@
 import React from "react";
 import PageLayout from "@/components/layout/PageLayout";
 import HeroSlider from "@/components/ui/HeroSlider";
-import CategoryCard from "@/components/UI/CategoryCard";
-import PortfolioItem from "@/components/UI/PortfolioItem";
-import SectionHeader from "@/components/UI/SectionHeader";
+import CategoryCard from "@/components/ui/CategoryCard";
+import PortfolioItem from "@/components/ui/PortfolioItem";
+import SectionHeader from "@/components/ui/SectionHeader";
 import { Link } from "react-router-dom";
 
 const Home: React.FC = () => {
