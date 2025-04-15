@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import ThemeToggle from "./ThemeToggle";
+import ThemeToggle from "@/components/layout/ThemeToggle";
 
 const Navbar: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -36,7 +36,7 @@ const Navbar: React.FC = () => {
       <div className="container mx-auto px-6 flex items-center justify-between">
         <Link to="/" className="flex items-center">
           <img
-            src="/lovable-uploads/74598f6b-6377-4da6-93b2-9bde1d386f66.png"
+            src="/branding/logo-black.png"
             alt="Ryzn Production"
             className="h-10 md:h-12"
           />

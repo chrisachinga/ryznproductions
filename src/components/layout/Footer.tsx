@@ -1,4 +1,3 @@
-
 import React from "react";
 import { Link } from "react-router-dom";
 import { Facebook, Instagram } from "lucide-react";
@@ -10,7 +9,7 @@ const Footer: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           <div className="col-span-1 lg:col-span-2">
             <img
-              src="/lovable-uploads/516f4555-28f6-4fef-b5f8-ec7839b44309.png"
+              src="/branding/logo-white.png"
               alt="Ryzn Production"
               className="h-14 mb-4"
             />
