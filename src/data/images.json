@@ -5,7 +5,7 @@
         "slug": "potrait-photography",
         "description": "A professional photographer capturing a grand event setup.",
         "banner": {
-          "src": "/public/gallery/potrait/24.jpg",
+          "src": "/gallery/potrait/24.jpg",
           "alt": "Main banner showing an event photographer in action",
           "description": "A professional photographer capturing a grand event setup.",
           "width": 1400,
@@ -13,115 +13,115 @@
         },
         "images": [
           {
-            "src": "/public/gallery/potrait/0.jpg",
+            "src": "/gallery/potrait/0.jpg",
             "alt": "Photo Description Goes Here",
             "width": 1169,
             "height": 780
           },
           {
-            "src": "/public/gallery/potrait/1.jpg",
+            "src": "/gallery/potrait/1.jpg",
             "alt": "Birthday party moment",
             "width": 1170,
             "height": 780
           },
           {
-            "src": "/public/gallery/potrait/2.jpg",
+            "src": "/gallery/potrait/2.jpg",
             "alt": "Photo Description Goes Here",
             "width": 1169,
             "height": 780
           },
           {
-            "src": "/public/gallery/potrait/4.jpg",
+            "src": "/gallery/potrait/4.jpg",
             "alt": "Photo Description Goes Here",
             "width": 1169,
             "height": 780
           },
           {
-            "src": "/public/gallery/potrait/5.jpg",
+            "src": "/gallery/potrait/5.jpg",
             "alt": "Photo Description Goes Here",
             "width": 1169,
             "height": 780
           },
           {
-            "src": "/public/gallery/potrait/7.jpg",
+            "src": "/gallery/potrait/7.jpg",
             "alt": "Photo Description Goes Here",
             "width": 1169,
             "height": 780
           },
           {
-            "src": "/public/gallery/potrait/8.jpg",
+            "src": "/gallery/potrait/8.jpg",
             "alt": "Photo Description Goes Here",
             "width": 1169,
             "height": 780
           },
           {
-            "src": "/public/gallery/potrait/9.jpg",
+            "src": "/gallery/potrait/9.jpg",
             "alt": "Photo Description Goes Here",
             "width": 1169,
             "height": 780
           },
           {
-            "src": "/public/gallery/potrait/10.jpg",
+            "src": "/gallery/potrait/10.jpg",
             "alt": "Photo Description Goes Here",
             "width": 1169,
             "height": 780
           },
           {
-            "src": "/public/gallery/potrait/11.jpg",
+            "src": "/gallery/potrait/11.jpg",
             "alt": "Photo Description Goes Here",
             "width": 1169,
             "height": 780
           },
           {
-            "src": "/public/gallery/potrait/12.jpg",
+            "src": "/gallery/potrait/12.jpg",
             "alt": "Photo Description Goes Here",
             "width": 1169,
             "height": 780
           },
           {
-            "src": "/public/gallery/potrait/13.jpg",
+            "src": "/gallery/potrait/13.jpg",
             "alt": "Photo Description Goes Here",
             "width": 1169,
             "height": 780
           },
           {
-            "src": "/public/gallery/potrait/14.jpg",
+            "src": "/gallery/potrait/14.jpg",
             "alt": "Photo Description Goes Here",
             "width": 1169,
             "height": 780
           },
           {
-            "src": "/public/gallery/potrait/15.jpg",
+            "src": "/gallery/potrait/15.jpg",
             "alt": "Photo Description Goes Here",
             "width": 1169,
             "height": 780
           },
           {
-            "src": "/public/gallery/potrait/16.jpg",
+            "src": "/gallery/potrait/16.jpg",
             "alt": "Photo Description Goes Here",
             "width": 1169,
             "height": 780
           },
           {
-            "src": "/public/gallery/potrait/17.jpg",
+            "src": "/gallery/potrait/17.jpg",
             "alt": "Photo Description Goes Here",
             "width": 1169,
             "height": 780
           },
           {
-            "src": "/public/gallery/potrait/18.jpg",
+            "src": "/gallery/potrait/18.jpg",
             "alt": "Photo Description Goes Here",
             "width": 1169,
             "height": 780
           },
           {
-            "src": "/public/gallery/potrait/20.jpg",
+            "src": "/gallery/potrait/20.jpg",
             "alt": "Photo Description Goes Here",
             "width": 1169,
             "height": 780
           },
           {
-            "src": "/public/gallery/potrait/21.jpg",
+            "src": "/gallery/potrait/21.jpg",
             "alt": "Photo Description Goes Here",
             "width": 1169,
             "height": 780
