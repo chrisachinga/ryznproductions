@@ -685,6 +685,288 @@
           "height": 780
         }
       ]
+    },
+    {
+      "title": "Travel Photography",
+      "slug": "travel-photography",
+      "description": "A professional photographer capturing travel images.",
+      "banner": {
+        "src": "/gallery/travel/0.jpg",
+        "alt": "Main banner showing a travel photographer in action",
+        "description": "A professional photographer capturing travel images.",
+        "width": 1400,
+        "height": 600
+      },
+      "images": [
+        {
+          "src": "/gallery/travel/0.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/travel/1.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/travel/2.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/travel/3.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/travel/4.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/travel/5.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/travel/6.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/travel/7.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/travel/8.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/travel/9.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/travel/10.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/travel/11.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/travel/12.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/travel/13.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/travel/14.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/travel/15.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/travel/16.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/travel/17.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/travel/18.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        }
+      ]
+    },
+    {
+      "title": "Sports Photography",
+      "slug": "sports-photography",
+      "description": "A professional photographer capturing sports images.",
+      "banner": {
+        "src": "/gallery/sports/0.jpg",
+        "alt": "Main banner showing a sports photographer in action",
+        "description": "A professional photographer capturing sports images.",
+        "width": 1400,
+        "height": 600
+      },
+      "images": [
+        {
+          "src": "/gallery/sports/0.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/sports/1.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/sports/2.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/sports/3.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/sports/4.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/sports/5.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/sports/6.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        }
+      ]
+    },
+    {
+      "title": "Ryzn Photography",
+      "slug": "ryzn-photography",
+      "description": "A professional photographer capturing a grand event setup.",
+      "banner": {
+        "src": "/gallery/ryzn/0.jpg",
+        "alt": "Main banner showing an event photographer in action",
+        "description": "A professional photographer capturing a grand event setup.",
+        "width": 1400,
+        "height": 600
+      },
+      "images": [
+        {
+          "src": "/gallery/ryzn/0.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/ryzn/1.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/ryzn/2.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/ryzn/3.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/ryzn/4.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/ryzn/5.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/ryzn/6.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/ryzn/7.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/ryzn/8.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/ryzn/9.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/ryzn/10.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/ryzn/11.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/ryzn/12.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/ryzn/13.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        }
+      ]
     }
   ]
 }
