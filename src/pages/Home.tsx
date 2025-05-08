@@ -18,27 +18,27 @@ const Home: React.FC = () => {
   
   const heroSlides = [
     {
-      image: "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      image: "/gallery/weddings/0.jpg",
       title: "You imagine, we create!",
       subtitle: "Capturing emotions through the art of visual storytelling",
     },
     {
-      image: "https://images.unsplash.com/photo-1537724841875-c0604b52a636?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      image: "/gallery/documentary/1.jpg",
       title: "Every moment deserves to be remembered",
       subtitle: "Professional photography and videography services",
     },
     {
-      image: "https://images.unsplash.com/photo-1559638753-d8402e898328?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      image: "/gallery/events/0.jpg",
       title: "Bringing your vision to life",
       subtitle: "Expertly crafted visuals for every occasion",
     },
     {
-      image: "https://images.unsplash.com/photo-1471341971476-ae15ff5dd4ea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2089&q=80",
+      image: "/gallery/fashion/0.jpg",
       title: "Creating timeless memories",
       subtitle: "Artistic photography that stands the test of time",
     },
     {
-      image: "https://images.unsplash.com/photo-1540317580384-e5d43616b9aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      image: "/gallery/weddings/0.jpg",
       title: "Your story, our passion",
       subtitle: "Let us help you tell your unique story",
     },

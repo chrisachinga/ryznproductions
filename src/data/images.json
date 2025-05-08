@@ -1,133 +1,690 @@
 {
-    "categories": [
-      {
-        "title": "Potrait Photography",
-        "slug": "potrait-photography",
+  "categories": [
+    {
+      "title": "Potrait Photography",
+      "slug": "potrait-photography",
+      "description": "A professional photographer capturing a grand event setup.",
+      "banner": {
+        "src": "/gallery/potraits/0.jpg",
+        "alt": "Main banner showing an event photographer in action",
         "description": "A professional photographer capturing a grand event setup.",
-        "banner": {
-          "src": "/gallery/potrait/24.jpg",
-          "alt": "Main banner showing an event photographer in action",
-          "description": "A professional photographer capturing a grand event setup.",
-          "width": 1400,
-          "height": 600
+        "width": 1400,
+        "height": 600
+      },
+      "images": [
+        {
+          "src": "/gallery/potraits/0.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
         },
-        "images": [
-          {
-            "src": "/gallery/potrait/0.jpg",
-            "alt": "Photo Description Goes Here",
-            "width": 1169,
-            "height": 780
-          },
-          {
-            "src": "/gallery/potrait/1.jpg",
-            "alt": "Birthday party moment",
-            "width": 1170,
-            "height": 780
-          },
-          {
-            "src": "/gallery/potrait/2.jpg",
-            "alt": "Photo Description Goes Here",
-            "width": 1169,
-            "height": 780
-          },
-          {
-            "src": "/gallery/potrait/4.jpg",
-            "alt": "Photo Description Goes Here",
-            "width": 1169,
-            "height": 780
-          },
-          {
-            "src": "/gallery/potrait/5.jpg",
-            "alt": "Photo Description Goes Here",
-            "width": 1169,
-            "height": 780
-          },
-          {
-            "src": "/gallery/potrait/7.jpg",
-            "alt": "Photo Description Goes Here",
-            "width": 1169,
-            "height": 780
-          },
-          {
-            "src": "/gallery/potrait/8.jpg",
-            "alt": "Photo Description Goes Here",
-            "width": 1169,
-            "height": 780
-          },
-          {
-            "src": "/gallery/potrait/9.jpg",
-            "alt": "Photo Description Goes Here",
-            "width": 1169,
-            "height": 780
-          },
-          {
-            "src": "/gallery/potrait/10.jpg",
-            "alt": "Photo Description Goes Here",
-            "width": 1169,
-            "height": 780
-          },
-          {
-            "src": "/gallery/potrait/11.jpg",
-            "alt": "Photo Description Goes Here",
-            "width": 1169,
-            "height": 780
-          },
-          {
-            "src": "/gallery/potrait/12.jpg",
-            "alt": "Photo Description Goes Here",
-            "width": 1169,
-            "height": 780
-          },
-          {
-            "src": "/gallery/potrait/13.jpg",
-            "alt": "Photo Description Goes Here",
-            "width": 1169,
-            "height": 780
-          },
-          {
-            "src": "/gallery/potrait/14.jpg",
-            "alt": "Photo Description Goes Here",
-            "width": 1169,
-            "height": 780
-          },
-          {
-            "src": "/gallery/potrait/15.jpg",
-            "alt": "Photo Description Goes Here",
-            "width": 1169,
-            "height": 780
-          },
-          {
-            "src": "/gallery/potrait/16.jpg",
-            "alt": "Photo Description Goes Here",
-            "width": 1169,
-            "height": 780
-          },
-          {
-            "src": "/gallery/potrait/17.jpg",
-            "alt": "Photo Description Goes Here",
-            "width": 1169,
-            "height": 780
-          },
-          {
-            "src": "/gallery/potrait/18.jpg",
-            "alt": "Photo Description Goes Here",
-            "width": 1169,
-            "height": 780
-          },
-          {
-            "src": "/gallery/potrait/20.jpg",
-            "alt": "Photo Description Goes Here",
-            "width": 1169,
-            "height": 780
-          },
-          {
-            "src": "/gallery/potrait/21.jpg",
-            "alt": "Photo Description Goes Here",
-            "width": 1169,
-            "height": 780
-          }
-        ]
-      }
-    ]
-  }
-  
+        {
+          "src": "/gallery/potraits/1.jpg",
+          "alt": "Birthday party moment",
+          "width": 1170,
+          "height": 780
+        },
+        {
+          "src": "/gallery/potraits/2.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/potraits/3.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/potraits/4.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/potraits/5.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        }
+      ]
+    },
+    {
+      "title": "Documentary Photography",
+      "slug": "documentary-photography",
+      "description": "A professional photographer capturing a documentary of real-life events.",
+      "banner": {
+        "src": "/gallery/documentary/0.jpg",
+        "alt": "Main banner showing a documentary photographer in action",
+        "description": "A professional photographer capturing a documentary of real-life events.",
+        "width": 1400,
+        "height": 600
+      },
+      "images": [
+        {
+          "src": "/gallery/documentary/0.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 1169
+        },
+        {
+          "src": "/gallery/documentary/1.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 1169
+        },
+        {
+          "src": "/gallery/documentary/2.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/documentary/3.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/documentary/4.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/documentary/5.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/documentary/6.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/documentary/7.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/documentary/8.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/documentary/9.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/documentary/10.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/documentary/11.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/documentary/12.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/documentary/13.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        }
+      ]
+    },
+    {
+      "title": "Event Photography",
+      "slug": "event-photography",
+      "description": "A professional photographer capturing a grand event setup.",
+      "banner": {
+        "src": "/gallery/events/0.jpg",
+        "alt": "Main banner showing an event photographer in action",
+        "description": "A professional photographer capturing a grand event setup.",
+        "width": 1400,
+        "height": 600
+      },
+      "images": [
+        {
+          "src": "/gallery/events/0.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/events/1.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/events/2.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/events/3.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/events/4.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/events/5.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/events/6.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/events/7.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/events/8.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/events/9.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/events/10.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/events/11.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/events/12.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/events/13.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/events/14.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/events/15.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/events/16.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/events/17.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        }
+      ]
+    },
+    {
+      "title": "Wedding Photography",
+      "slug": "wedding-photography",
+      "description": "A professional photographer capturing a wedding ceremony.",
+      "banner": {
+        "src": "/gallery/weddings/0.jpg",
+        "alt": "Main banner showing a wedding photographer in action",
+        "description": "A professional photographer capturing a wedding ceremony.",
+        "width": 1400,
+        "height": 600
+      },
+      "images": [
+        {
+          "src": "/gallery/weddings/0.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/weddings/1.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/weddings/2.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/weddings/3.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/weddings/4.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/weddings/5.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/weddings/6.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/weddings/7.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/weddings/8.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/weddings/9.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/weddings/10.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        }
+      ]
+    },
+    {
+      "title": "Product Photography",
+      "slug": "product-photography",
+      "description": "A professional photographer capturing product images.",
+      "banner": {
+        "src": "/gallery/products/0.jpg",
+        "alt": "Main banner showing a product photographer in action",
+        "description": "A professional photographer capturing product images.",
+        "width": 1400,
+        "height": 600
+      },
+      "images": [
+        {
+          "src": "/gallery/products/0.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/products/1.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/products/2.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/products/3.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/products/4.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/products/5.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        }
+      ]
+    },
+    {
+      "title": "Food Photography",
+      "slug": "food-photography",
+      "description": "A professional photographer capturing food images.",
+      "banner": {
+        "src": "/gallery/food/0.jpg",
+        "alt": "Main banner showing a food photographer in action",
+        "description": "A professional photographer capturing food images.",
+        "width": 1400,
+        "height": 600
+      },
+      "images": [
+        {
+          "src": "/gallery/food/0.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/1.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/2.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/3.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/4.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/5.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/6.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/7.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/8.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/9.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/10.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/11.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/12.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/13.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/14.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/15.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/16.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/17.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/18.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/19.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/20.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/21.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/22.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/23.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/24.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/25.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/26.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/27.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/28.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/29.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/30.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/31.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/32.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/33.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/34.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/35.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/36.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/37.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/38.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/39.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/40.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        },
+        {
+          "src": "/gallery/food/41.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        }
+      ]
+    },
+    {
+      "title": "Fashion Photography",
+      "slug": "fashion-photography",
+      "description": "A professional photographer capturing fashion images.",
+      "banner": {
+        "src": "/gallery/fashion/0.jpg",
+        "alt": "Main banner showing a fashion photographer in action",
+        "description": "A professional photographer capturing fashion images.",
+        "width": 1400,
+        "height": 600
+      },
+      "images": [
+        {
+          "src": "/gallery/fashion/0.jpg",
+          "alt": "Photo Description Goes Here",
+          "width": 1169,
+          "height": 780
+        }
+      ]
+    }
+  ]
+}
