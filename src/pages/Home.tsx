@@ -44,75 +44,6 @@ const Home: React.FC = () => {
     },
   ];
 
-  // const categories = [
-  //   {
-  //     title: "Event Photography",
-  //     image: "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
-  //     slug: "event-photography",
-  //   },
-  //   {
-  //     title: "Photo Tour Experiences",
-  //     image: "https://images.unsplash.com/photo-1507608616759-54f48f0af0ee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-  //     slug: "photo-tour-experiences",
-  //   },
-  //   {
-  //     title: "Documentary Photography",
-  //     image: "https://images.unsplash.com/photo-1604954967536-c8875cd14593?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-  //     slug: "documentary-photography",
-  //   },
-  //   {
-  //     title: "Product Photography",
-  //     image: "https://images.unsplash.com/photo-1616401784845-180882ba9ba8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-  //     slug: "product-photography",
-  //   },
-  //   {
-  //     title: "Portrait Photography",
-  //     image: "https://images.unsplash.com/photo-1528475775637-ed767f76e6b6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-  //     slug: "portrait-photography",
-  //   },
-  //   {
-  //     title: "Wedding Photography",
-  //     image: "https://images.unsplash.com/photo-1519741497674-611481863552?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-  //     slug: "wedding-photography",
-  //   },
-  // ];
-
-  const portfolioItems = [
-    {
-      title: "Corporate Event Highlights",
-      image: "https://images.unsplash.com/photo-1566737236500-c8ac43014a67?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-      category: "Event Photography",
-    },
-    {
-      title: "Beach Wedding Film",
-      image: "https://images.unsplash.com/photo-1583939003579-730e3918a45a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-      category: "Wedding Videography",
-      isVideo: true,
-    },
-    {
-      title: "Luxury Watch Collection",
-      image: "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80",
-      category: "Product Photography",
-    },
-    {
-      title: "Safari Documentary",
-      image: "https://images.unsplash.com/photo-1504197832061-98356e3dcdcf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-      category: "Documentary",
-      isVideo: true,
-    },
-    {
-      title: "Fashion Editorial",
-      image: "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80",
-      category: "Fashion Photography",
-    },
-    {
-      title: "Restaurant Promo",
-      image: "https://images.unsplash.com/photo-1579887829494-26396d2057ea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-      category: "Commercial",
-      isVideo: true,
-    },
-  ];
-
   return (
     <PageLayout title="Home">
       {/* Hero Section */}
@@ -137,33 +68,6 @@ const Home: React.FC = () => {
                 slug={category.slug}
               />
             ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Portfolio Section */}
-      <section className="py-20 bg-gray-50">
-        <div className="container-custom">
-          <SectionHeader
-            title="Our Portfolio"
-            subtitle="A selection of our best work spanning photography and videography projects."
-            centered
-          />
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {portfolioItems.map((item, index) => (
-              <PortfolioItem
-                key={index}
-                title={item.title}
-                image={item.image}
-                category={item.category}
-                isVideo={item.isVideo}
-              />
-            ))}
-          </div>
-          <div className="mt-12 text-center">
-            <Link to="/services" className="btn-primary">
-              View All Work
-            </Link>
           </div>
         </div>
       </section>
